@@ -1,0 +1,4 @@
+Factory Address: 0x79aFf40a0c3827E6cBd3d6D492916e1D19d1fdc8
+    1. Campaign Address: 0x7799Fe3B21cD276B9123A0AfFAD437f3879705a5; Approver Contribution: 1 Finney
+    2. Campaign Address: 
+

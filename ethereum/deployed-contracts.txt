@@ -1,0 +1,3 @@
+Address: 0x79aFf40a0c3827E6cBd3d6D492916e1D19d1fdc8
+Interface: [{"inputs":[{"internalType":"uint256","name":"_approversContribution","type":"uint256"}],"name":"createCampaign","outputs":[],"stateMutability":"nonpayable","type":"function","signature":"0xa3303a75"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"deployedCampaigns","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true,"signature":"0x339d50a5"},{"inputs":[],"name":"getDeployedCampaigns","outputs":[{"internalType":"address[]","name":"","type":"address[]"}],"stateMutability":"view","type":"function","constant":true,"signature":"0x4acb9d4f"}]
+
