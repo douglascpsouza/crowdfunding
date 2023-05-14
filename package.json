@@ -1,0 +1,29 @@
+{
+  "name": "crowdfunding-application",
+  "version": "1.0.0",
+  "description": "Crowdfunding application that uses blockchain to increase transparency about the use of raised funds",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglascpsouza/crowdfunding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglascpsouza/crowdfunding/issues"
+  },
+  "homepage": "https://github.com/douglascpsouza/crowdfunding#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.11",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.1",
+    "ganache": "^7.8.0",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.19",
+    "web3": "^1.10.0"
+  }
+}
